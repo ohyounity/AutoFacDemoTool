@@ -1,0 +1,7 @@
+{
+	"modules": [
+		{
+			"type": "Console.Config.AutofacModule, Console"
+		}
+	]
+}
